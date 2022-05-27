@@ -1,10 +1,12 @@
 # Bitcoin-Transaction-Sample-Code
 
-##To test a Bitcoin transaction using my code, all you have to do is - 
-Download the files - send_dummy.js and package.json
-Run npm install
-Modify send_dummy.js with your host, username, password, from address, to address, amount, private key.
-At terminal, run - "node send_dummy.js", AND there you Go!
+## To test a Bitcoin transaction using my code, all you have to do is - 
+
+**STEP 1 -** Download the files - send_dummy.js and package.json
+**STEP 2 -** Run npm install
+**STEP 3 -** Modify send_dummy.js with your host, username, password, from address, to address, amount, private key.
+**STEP 4 -** At terminal, run - "node send_dummy.js", AND there you Go!
+
 Your will see the transaction details at terminal if everything goes correct.
 
 
