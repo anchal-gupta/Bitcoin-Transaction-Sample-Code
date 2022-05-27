@@ -16,7 +16,7 @@
 
 **STEP 4 -** At terminal, run - "node send_dummy.js", AND there you Go!<br><br>
 
-`Your will see the transaction details at terminal if everything goes correct.<br><br>`
+> Your will see the transaction details at terminal if everything goes correct.<br><br>
 
 
 If you face any difficulties in running this code, you can reach out to me directly at my mail ID - "anchalchery@gmail.com", I will be more than happy to help :)
